@@ -1,15 +1,12 @@
-### 🚀 Learn how to build and use this package: https://www.swiftful-thinking.com/offers/REyNLwwH
-
 # Logger for Swift 6 🪓
 
 A reusable logger for Swift applications, built for Swift 6. Includes `@Observable` support.
 
 Pre-built dependencies*:
-
-- Console: Included
-- Mixpanel: https://github.com/SwiftfulThinking/SwiftfulLoggingMixpanel
-- Firebase Analytics: https://github.com/SwiftfulThinking/SwiftfulLoggingFirebaseAnalytics.git
-- Firebase Crashlytics: https://github.com/SwiftfulThinking/SwiftfulLoggingFirebaseCrashlytics.git
+- Console
+- Mixpanel
+- Firebase Analytics
+- Firebase Crashlytics
 
 \* Created another? Send the url in [Issues](https://github.com/SwiftfulThinking/SwiftfulLogging/issues)! 🥳
 
