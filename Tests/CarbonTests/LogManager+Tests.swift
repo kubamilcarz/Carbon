@@ -1,6 +1,6 @@
 import Testing
 import SendableDictionary
-@testable import SwiftfulLogging
+@testable import Carbon
 
 @MainActor
 struct LogManagerTests {

@@ -1,8 +1,8 @@
 //
 //  ConsoleService.swift
-//  SwiftfulLogging
+//  Carbon
 //
-//  Created by Nick Sarno on 9/25/24.
+//  Created by Kuba on 5/14/25.
 //
 
 import Foundation

@@ -1,12 +1,14 @@
 //
 //  LogSystem.swift
-//  SwiftfulLogging
+//  Carbon
 //
-//  Created by Nick Sarno on 10/25/24.
+//  Created by Kuba on 5/14/25.
 //
+
 import OSLog
 
 actor LogSystem {
+    
     let logger = Logger(subsystem: Bundle.main.bundleIdentifier!, category: "ConsoleLogger")
 
     private func log(level: OSLogType, message: String) {

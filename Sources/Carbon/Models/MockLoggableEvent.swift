@@ -1,10 +1,12 @@
 //
 //  MockLoggableEvent.swift
-//  SwiftfulLogging
+//  Carbon
 //
-//  Created by Nick Sarno on 9/25/24.
+//  Created by Kuba on 5/14/25.
 //
+
 public struct AnyLoggableEvent: LoggableEvent {
+    
     public var eventName: String
     public var type: LogType
     public var parameters: [String: Any]?

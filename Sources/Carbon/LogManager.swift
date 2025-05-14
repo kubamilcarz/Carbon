@@ -1,8 +1,16 @@
+//
+//  LogManager.swift
+//  Carbon
+//
+//  Created by Kuba on 5/14/25.
+//
+
 import SwiftUI
 
 @MainActor
 @Observable
 public class LogManager {
+    
     private let services: [LogService]
 
     public init(services: [LogService] = []) {

@@ -1,9 +1,10 @@
 //
 //  LogType+OSLog.swift
-//  SwiftfulLogging
+//  Carbon
 //
-//  Created by Nick Sarno on 10/25/24.
+//  Created by Kuba on 5/14/25.
 //
+
 import OSLog
 
 extension LogType {
